@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;    
+}
+
+.hl {
+height: 400px;
+width: 400px;
+}
+.salute {
+    color: blue;
+    font-family: monospace;
+    font-size: 50px;
+}
+.bye {
+    color: red;
+    font-size: 70px;
+}

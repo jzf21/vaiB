@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+.parent ,.blue ,.green{
+    display: flex;
+    
+}
+.blue , .green {
+    height: 300px;
+    width: 300px;
+    margin: 5%;
+    font-size: 60px;
+    padding: 5% 5% 5% 5%;
+    cursor: pointer;
+
+    
+    
+    
+
+}
+.blue:hover,.green:hover {
+    text-transform: uppercase;
+}
+p {
+    margin:5% 5%;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+.blue {
+    
+    color:green ;
+    background-color: blue;
+}
+.green {
+    background-color: green;
+    color: blue;
+}
+body {
+    background-color: #25252A ;
+}
